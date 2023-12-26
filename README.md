@@ -13,4 +13,4 @@
 
 
 
-<img src=".twitter.gif"/>
+<img src="twitter.gif"/>
